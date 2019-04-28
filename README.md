@@ -37,21 +37,21 @@
 				line 16 workflowFileName: input file
 				line 17 outputRoot: output directory
 
-		1.2. src\DkRecommender.java
-				This file reads the relation sets when k = 1, then it extracts the relation sets when k = 1 to gram+1 and doing recommendation. 
+	1.5. src\DkRecommender.java
+		This file reads the relation sets when k = 1, then it extracts the relation sets when k = 1 to gram+1 and doing recommendation. 
 
-				line 22 inputRoot: input directory
-				line 23 outputRoot: output directory
-				line 25 entityIdFile: activity names to ids
-				line 26 relationIdFile: relations to ids
-				line 27 graphIdFile: model names to ids
-				line 29 trainFile: training set
-				line 30 testFile: testing set
-				line 31 fileList: 5 sets when fiveFold = true
-				line 32 validFile: validation set
-				line 34 logString: log file prefix
-				line 35 gram: gram = max(k) - 1
-				line 36 fiveFold: ture if using fiveFold
+		line 22 inputRoot: input directory
+		line 23 outputRoot: output directory
+		line 25 entityIdFile: activity names to ids
+		line 26 relationIdFile: relations to ids
+		line 27 graphIdFile: model names to ids
+		line 29 trainFile: training set
+		line 30 testFile: testing set
+		line 31 fileList: 5 sets when fiveFold = true
+		line 32 validFile: validation set
+		line 34 logString: log file prefix
+		line 35 gram: gram = max(k) - 1
+		line 36 fiveFold: ture if using fiveFold
 
 2. dataset\
 
