@@ -1,0 +1,665 @@
+==========file: .\smallRealCausal\entity2id.txt==========
+==========file: .\smallRealCausal\relation2id.txt==========
+==========file: .\smallRealCausal\graph2id.txt==========
+==========file: .\smallRealCausal\train.txt==========
+count: 1000
+count: 2000
+==========file: .\smallRealCausal\test.txt==========
+==========evaluate==========
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_g7 result: 8
+3_4_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 4
+4_17_directAlwaysCausal/directSometimesInverseCausal_g7 result: 8 10 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 25 33
+33_40_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 45 43
+43_46_directAlwaysCausal/directAlwaysInverseCausal_g7 result: 45 46
+46_-45_directAlwaysCausal/directAlwaysInverseCausal_g7 result: -45
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g73 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_g73 result: 8
+3_10_directAlwaysCausal/directSometimesInverseCausal_g73 result: 8 2 4 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_g73 result: 8 2 4
+22_23_directAlwaysCausal/directSometimesInverseCausal_g73 result: 23
+4_17_directAlwaysCausal/directAlwaysInverseCausal_g73 result: 17
+22_27_directAlwaysCausal/directSometimesInverseCausal_g73 result: 23 27
+25_40_directSometimesCausal/directSometimesInverseCausal_g73 result: 17 40
+27_40_directSometimesCausal/directAlwaysInverseCausal_g73 result: 17 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g73 result: 43
+23_45_directSometimesCausal/directAlwaysInverseCausal_g73 result: 45
+43_45_directSometimesCausal/directAlwaysInverseCausal_g73 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g73 result: 46
+17_25_directAlwaysCausal/directAlwaysInverseCausal_g73 result: 25
+25_22_directAlwaysCausal/directSometimesInverseCausal_g73 result: 33 27 40 22
+1_4_directAlwaysCausal/directAlwaysInverseCausal_g69 result: 4
+4_17_directAlwaysCausal/directSometimesInverseCausal_g69 result: 17
+25_33_directAlwaysCausal/directAlwaysInverseCausal_g69 result: 40 33
+33_34_directAlwaysCausal/directAlwaysInverseCausal_g69 result: 34
+17_25_directAlwaysCausal/directAlwaysInverseCausal_g69 result: 25
+4_1_directSometimesCausal/directSometimesInverseCausal_g69 result: 1
+11_1_directSometimesCausal/directAlwaysInverseCausal_g69 result: 1
+34_28_directAlwaysCausal/directSometimesInverseCausal_g69 result: 28
+28_11_directSometimesCausal/directAlwaysInverseCausal_g69 result: 11
+34_11_directSometimesCausal/directSometimesInverseCausal_g69 result: 11
+40_42_directAlwaysCausal/directSometimesInverseCausal_G654 result: 51 43 42
+2_3_directSometimesCausal/directAlwaysInverseCausal_G654 result: 3
+16_3_directSometimesCausal/directAlwaysInverseCausal_G654 result: 3
+3_10_directAlwaysCausal/directSometimesInverseCausal_G654 result: 2 4 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_G654 result: 2 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G654 result: 2
+4_17_directSometimesCausal/directAlwaysInverseCausal_G654 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G654 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G654 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G654 result: 40
+42_46_directSometimesCausal/directAlwaysInverseCausal_G654 result: 46
+51_46_directSometimesCausal/directAlwaysInverseCausal_G654 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G654 result: 51
+3_16_directAlwaysCausal/directSometimesInverseCausal_G654 result: 2 4 10 8 7 16
+1_4_directAlwaysCausal/directAlwaysInverseCausal_g64 result: 4
+4_17_directAlwaysCausal/directAlwaysInverseCausal_g64 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_g64 result: 25 33
+33_1_directAlwaysCausal/directAlwaysInverseCausal_g64 result: 40 51 1
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G645 result: 3
+7_10_directAlwaysCausal/directSometimesInverseCausal_G645 result: 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G645 result: 2
+7_17_directSometimesCausal/directSometimesInverseCausal_G645 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G645 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G645 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G645 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G645 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G645 result: 46
+3_7_directAlwaysCausal/directSometimesInverseCausal_G645 result: 2 4 8 7
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G640 result: 3
+7_10_directAlwaysCausal/directSometimesInverseCausal_G640 result: 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G640 result: 2
+7_17_directSometimesCausal/directSometimesInverseCausal_G640 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G640 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G640 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G640 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G640 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G640 result: 46
+3_7_directAlwaysCausal/directSometimesInverseCausal_G640 result: 2 4 8 7
+8_3_directSometimesCausal/directAlwaysInverseCausal_G636 result: 3
+2_3_directSometimesCausal/directSometimesInverseCausal_G636 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G636 result: 8
+3_4_directAlwaysCausal/directSometimesInverseCausal_G636 result: 2 4
+3_2_directSometimesCausal/directSometimesInverseCausal_G636 result: 4 2
+1_2_directSometimesCausal/directAlwaysInverseCausal_G636 result: 4 2
+4_17_directSometimesCausal/directSometimesInverseCausal_G636 result: 3 17
+25_17_directSometimesCausal/directSometimesInverseCausal_G636 result: 17
+25_33_directSometimesCausal/directSometimesInverseCausal_G636 result: 17 33
+34_33_directSometimesCausal/directSometimesInverseCausal_G636 result: 17 33
+33_34_directAlwaysCausal/directSometimesInverseCausal_G636 result: 34
+17_25_directSometimesCausal/directAlwaysInverseCausal_G636 result: 25
+33_25_directSometimesCausal/directSometimesInverseCausal_G636 result: 25
+2_1_directAlwaysCausal/directSometimesInverseCausal_G636 result: 1
+34_11_directAlwaysCausal/directSometimesInverseCausal_G636 result: 28 11
+11_52_directAlwaysCausal/directAlwaysInverseCausal_G636 result: 52
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G631 result: 3
+7_10_directAlwaysCausal/directSometimesInverseCausal_G631 result: 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G631 result: 2
+7_17_directSometimesCausal/directSometimesInverseCausal_G631 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G631 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G631 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G631 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G631 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G631 result: 46
+3_7_directAlwaysCausal/directSometimesInverseCausal_G631 result: 2 4 8 7
+8_3_directSometimesCausal/directAlwaysInverseCausal_G627 result: 3
+2_3_directSometimesCausal/directSometimesInverseCausal_G627 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G627 result: 8
+3_4_directAlwaysCausal/directSometimesInverseCausal_G627 result: 2 4
+3_2_directSometimesCausal/directSometimesInverseCausal_G627 result: 4 2
+1_2_directSometimesCausal/directAlwaysInverseCausal_G627 result: 4 2
+4_17_directSometimesCausal/directSometimesInverseCausal_G627 result: 3 17
+25_17_directSometimesCausal/directSometimesInverseCausal_G627 result: 17
+25_33_directSometimesCausal/directSometimesInverseCausal_G627 result: 17 33
+34_33_directSometimesCausal/directSometimesInverseCausal_G627 result: 17 33
+33_34_directSometimesCausal/directSometimesInverseCausal_G627 result: 25 34
+28_34_directSometimesCausal/directSometimesInverseCausal_G627 result: 25 34
+17_25_directSometimesCausal/directAlwaysInverseCausal_G627 result: 25
+33_25_directSometimesCausal/directSometimesInverseCausal_G627 result: 25
+2_1_directAlwaysCausal/directSometimesInverseCausal_G627 result: 1
+34_28_directAlwaysCausal/directSometimesInverseCausal_G627 result: 28
+28_11_directSometimesCausal/directSometimesInverseCausal_G627 result: 11
+34_11_directSometimesCausal/directSometimesInverseCausal_G627 result: 11
+11_52_directAlwaysCausal/directAlwaysInverseCausal_G627 result: 52
+2_3_directSometimesCausal/directAlwaysInverseCausal_G622 result: 3
+16_3_directSometimesCausal/directAlwaysInverseCausal_G622 result: 3
+3_10_directAlwaysCausal/directSometimesInverseCausal_G622 result: 2 4 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_G622 result: 2 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G622 result: 2
+4_17_directSometimesCausal/directAlwaysInverseCausal_G622 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G622 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G622 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G622 result: 40
+51_46_directAlwaysCausal/directAlwaysInverseCausal_G622 result: 46
+3_16_directAlwaysCausal/directSometimesInverseCausal_G622 result: 2 4 10 8 7 16
+8_3_directSometimesCausal/directAlwaysInverseCausal_G618 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G618 result: 3
+17_8_directAlwaysCausal/directSometimesInverseCausal_G618 result: 8
+17_4_directAlwaysCausal/directSometimesInverseCausal_G618 result: 8 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G618 result: 2
+3_17_directAlwaysCausal/directSometimesInverseCausal_G618 result: 2 4 8 7 17
+33_27_directAlwaysCausal/directAlwaysInverseCausal_G618 result: 27
+4_33_directAlwaysCausal/directAlwaysInverseCausal_G618 result: 33
+27_40_directAlwaysCausal/directAlwaysInverseCausal_G618 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G618 result: 45
+8_3_directSometimesCausal/directAlwaysInverseCausal_G613 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G613 result: 3
+17_8_directAlwaysCausal/directSometimesInverseCausal_G613 result: 8
+17_4_directAlwaysCausal/directSometimesInverseCausal_G613 result: 8 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G613 result: 2
+3_17_directAlwaysCausal/directSometimesInverseCausal_G613 result: 2 4 8 7 17
+33_27_directAlwaysCausal/directAlwaysInverseCausal_G613 result: 27
+4_33_directAlwaysCausal/directAlwaysInverseCausal_G613 result: 33
+27_40_directAlwaysCausal/directAlwaysInverseCausal_G613 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G613 result: 45
+8_3_directSometimesCausal/directAlwaysInverseCausal_G609 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G609 result: 3
+17_8_directAlwaysCausal/directSometimesInverseCausal_G609 result: 8
+17_4_directAlwaysCausal/directSometimesInverseCausal_G609 result: 8 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G609 result: 2
+3_17_directAlwaysCausal/directSometimesInverseCausal_G609 result: 2 4 8 7 17
+33_27_directAlwaysCausal/directAlwaysInverseCausal_G609 result: 27
+4_33_directAlwaysCausal/directAlwaysInverseCausal_G609 result: 33
+27_40_directAlwaysCausal/directAlwaysInverseCausal_G609 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G609 result: 45
+8_3_directSometimesCausal/directAlwaysInverseCausal_G604 result: 3
+4_3_directSometimesCausal/directSometimesInverseCausal_G604 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G604 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_G604 result: 2 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G604 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G604 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G604 result: 2
+4_17_directSometimesCausal/directSometimesInverseCausal_G604 result: 3 17
+25_17_directSometimesCausal/directSometimesInverseCausal_G604 result: 17
+25_33_directAlwaysCausal/directSometimesInverseCausal_G604 result: 33
+33_34_directAlwaysCausal/directSometimesInverseCausal_G604 result: 34
+17_25_directSometimesCausal/directSometimesInverseCausal_G604 result: 4 25
+33_25_directSometimesCausal/directSometimesInverseCausal_G604 result: 25
+34_11_directAlwaysCausal/directAlwaysInverseCausal_G604 result: 11
+8_3_directSometimesCausal/directAlwaysInverseCausal_g5 result: 3
+36_3_directSometimesCausal/directAlwaysInverseCausal_g5 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_g5 result: 8
+3_4_directAlwaysCausal/directAlwaysInverseCausal_g5 result: 4
+4_17_directAlwaysCausal/directSometimesInverseCausal_g5 result: 8 17
+33_40_directAlwaysCausal/directAlwaysInverseCausal_g5 result: 27 34 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g5 result: 45 43
+43_46_directAlwaysCausal/directAlwaysInverseCausal_g5 result: 45 46
+46_-45_directAlwaysCausal/directAlwaysInverseCausal_g5 result: -45
+17_36_directAlwaysCausal/directAlwaysInverseCausal_g5 result: 25 33 36
+8_3_directSometimesCausal/directAlwaysInverseCausal_G596 result: 3
+4_3_directSometimesCausal/directSometimesInverseCausal_G596 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G596 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_G596 result: 2 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G596 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G596 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G596 result: 2
+4_17_directSometimesCausal/directSometimesInverseCausal_G596 result: 3 17
+25_17_directSometimesCausal/directSometimesInverseCausal_G596 result: 17
+25_33_directAlwaysCausal/directSometimesInverseCausal_G596 result: 33
+33_34_directAlwaysCausal/directSometimesInverseCausal_G596 result: 34
+17_25_directSometimesCausal/directSometimesInverseCausal_G596 result: 4 25
+33_25_directSometimesCausal/directSometimesInverseCausal_G596 result: 25
+34_11_directAlwaysCausal/directAlwaysInverseCausal_G596 result: 11
+2_3_directSometimesCausal/directAlwaysInverseCausal_G591 result: 3
+16_3_directSometimesCausal/directAlwaysInverseCausal_G591 result: 3
+3_10_directAlwaysCausal/directSometimesInverseCausal_G591 result: 2 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G591 result: 2
+3_17_directSometimesCausal/directSometimesInverseCausal_G591 result: 4 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G591 result: 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G591 result: 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G591 result: 33
+33_40_directSometimesCausal/directSometimesInverseCausal_G591 result: 17 40
+43_40_directSometimesCausal/directSometimesInverseCausal_G591 result: 17 40
+40_43_directAlwaysCausal/directSometimesInverseCausal_G591 result: 51 43
+43_45_directAlwaysCausal/directSometimesInverseCausal_G591 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G591 result: 46
+3_16_directSometimesCausal/directSometimesInverseCausal_G591 result: 4 17 16
+17_16_directSometimesCausal/directSometimesInverseCausal_G591 result: 4 33 16
+2_3_directSometimesCausal/directAlwaysInverseCausal_G587 result: 3
+16_3_directSometimesCausal/directAlwaysInverseCausal_G587 result: 3
+3_10_directAlwaysCausal/directSometimesInverseCausal_G587 result: 2 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G587 result: 2
+3_17_directSometimesCausal/directSometimesInverseCausal_G587 result: 4 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G587 result: 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G587 result: 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G587 result: 33
+33_40_directSometimesCausal/directSometimesInverseCausal_G587 result: 17 40
+43_40_directSometimesCausal/directSometimesInverseCausal_G587 result: 17 40
+40_43_directAlwaysCausal/directSometimesInverseCausal_G587 result: 51 43
+43_45_directAlwaysCausal/directSometimesInverseCausal_G587 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G587 result: 46
+3_16_directSometimesCausal/directSometimesInverseCausal_G587 result: 4 17 16
+17_16_directSometimesCausal/directSometimesInverseCausal_G587 result: 4 33 16
+8_3_directSometimesCausal/directAlwaysInverseCausal_G582 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G582 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G582 result: 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G582 result: 4
+25_4_directSometimesCausal/directSometimesInverseCausal_G582 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G582 result: 2
+20_23_directAlwaysCausal/directSometimesInverseCausal_G582 result: 23
+25_20_directAlwaysCausal/directSometimesInverseCausal_G582 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G582 result: 25
+4_25_directSometimesCausal/directSometimesInverseCausal_G582 result: 3 17 25
+8_3_directSometimesCausal/directAlwaysInverseCausal_G578 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G578 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G578 result: 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G578 result: 4
+25_4_directSometimesCausal/directSometimesInverseCausal_G578 result: 4
+20_49_directSometimesCausal/directSometimesInverseCausal_G578 result: 25 49
+23_49_directSometimesCausal/directAlwaysInverseCausal_G578 result: 25 49
+3_2_directAlwaysCausal/directSometimesInverseCausal_G578 result: 2
+20_23_directAlwaysCausal/directSometimesInverseCausal_G578 result: 23
+25_20_directAlwaysCausal/directSometimesInverseCausal_G578 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G578 result: 25
+4_25_directSometimesCausal/directSometimesInverseCausal_G578 result: 3 17 25
+8_3_directSometimesCausal/directAlwaysInverseCausal_G573 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G573 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_G573 result: 2 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G573 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G573 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G573 result: 2
+4_17_directAlwaysCausal/directAlwaysInverseCausal_G573 result: 17
+25_40_directAlwaysCausal/directAlwaysInverseCausal_G573 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_G573 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_G573 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G573 result: 46
+17_25_directAlwaysCausal/directSometimesInverseCausal_G573 result: 25
+8_3_directSometimesCausal/directAlwaysInverseCausal_G569 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G569 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_G569 result: 2 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G569 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G569 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G569 result: 2
+4_17_directAlwaysCausal/directAlwaysInverseCausal_G569 result: 17
+25_40_directAlwaysCausal/directAlwaysInverseCausal_G569 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_G569 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_G569 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G569 result: 46
+17_25_directAlwaysCausal/directSometimesInverseCausal_G569 result: 25
+8_3_directSometimesCausal/directAlwaysInverseCausal_G564 result: 3
+4_3_directSometimesCausal/directSometimesInverseCausal_G564 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G564 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G564 result: 8
+4_10_directAlwaysCausal/directSometimesInverseCausal_G564 result: 8 10
+3_4_directSometimesCausal/directSometimesInverseCausal_G564 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G564 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G564 result: 2
+4_17_directSometimesCausal/directSometimesInverseCausal_G564 result: 3 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G564 result: 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G564 result: 4 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G564 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G564 result: 40
+51_46_directAlwaysCausal/directAlwaysInverseCausal_G564 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G564 result: 51
+2_3_directSometimesCausal/directAlwaysInverseCausal_G559 result: 3
+17_3_directSometimesCausal/directSometimesInverseCausal_G559 result: 3
+3_2_directAlwaysCausal/directSometimesInverseCausal_G559 result: 2
+3_17_directSometimesCausal/directSometimesInverseCausal_G559 result: 4 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G559 result: 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G559 result: 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G559 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G559 result: 40
+51_46_directAlwaysCausal/directAlwaysInverseCausal_G559 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G559 result: 51
+3_16_directAlwaysCausal/directSometimesInverseCausal_G559 result: 2 4 10 8 16
+8_3_directSometimesCausal/directAlwaysInverseCausal_G554 result: 3
+4_3_directSometimesCausal/directSometimesInverseCausal_G554 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G554 result: 3
+4_8_directSometimesCausal/directSometimesInverseCausal_G554 result: 3 17 8
+17_8_directSometimesCausal/directSometimesInverseCausal_G554 result: 3 17 33 8
+4_10_directAlwaysCausal/directSometimesInverseCausal_G554 result: 8 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_G554 result: 2 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G554 result: 2
+33_17_directAlwaysCausal/directSometimesInverseCausal_G554 result: 40 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G554 result: 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G554 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G554 result: 40
+51_46_directAlwaysCausal/directAlwaysInverseCausal_G554 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G554 result: 51
+2_3_directSometimesCausal/directAlwaysInverseCausal_G549 result: 3
+17_3_directSometimesCausal/directSometimesInverseCausal_G549 result: 3
+3_10_directAlwaysCausal/directSometimesInverseCausal_G549 result: 2 4 10
+3_2_directAlwaysCausal/directSometimesInverseCausal_G549 result: 2
+3_17_directSometimesCausal/directSometimesInverseCausal_G549 result: 4 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G549 result: 17
+17_33_directSometimesCausal/directSometimesInverseCausal_G549 result: 33
+40_33_directSometimesCausal/directSometimesInverseCausal_G549 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G549 result: 40
+51_46_directAlwaysCausal/directAlwaysInverseCausal_G549 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G549 result: 51
+3_16_directAlwaysCausal/directSometimesInverseCausal_G549 result: 2 4 10 8 16
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G544 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G544 result: 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G544 result: 4
+8_4_directSometimesCausal/directAlwaysInverseCausal_G544 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G544 result: 2
+4_17_directAlwaysCausal/directSometimesInverseCausal_G544 result: 8 17
+25_27_directAlwaysCausal/directSometimesInverseCausal_G544 result: 27
+25_40_directAlwaysCausal/directSometimesInverseCausal_G544 result: 27 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_G544 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_G544 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G544 result: 46
+17_25_directSometimesCausal/directAlwaysInverseCausal_G544 result: 25
+27_25_directSometimesCausal/directAlwaysInverseCausal_G544 result: 25
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G539 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G539 result: 8
+4_10_directAlwaysCausal/directSometimesInverseCausal_G539 result: 8 17 10
+3_4_directSometimesCausal/directSometimesInverseCausal_G539 result: 4
+8_4_directSometimesCausal/directAlwaysInverseCausal_G539 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G539 result: 2
+4_17_directAlwaysCausal/directSometimesInverseCausal_G539 result: 8 17
+17_46_directAlwaysCausal/directAlwaysInverseCausal_G539 result: 25 33 40 36 46
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_G534 result: 8
+3_4_directSometimesCausal/directSometimesInverseCausal_G534 result: 4
+8_4_directSometimesCausal/directAlwaysInverseCausal_G534 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G534 result: 2
+4_17_directAlwaysCausal/directSometimesInverseCausal_G534 result: 8 17
+25_40_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 46
+17_25_directAlwaysCausal/directAlwaysInverseCausal_G534 result: 25
+40_42_directAlwaysCausal/directSometimesInverseCausal_G529 result: 51 43 42
+2_3_directAlwaysCausal/directAlwaysInverseCausal_G529 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_G529 result: 2 4 8
+3_4_directAlwaysCausal/directSometimesInverseCausal_G529 result: 2 4
+3_2_directSometimesCausal/directSometimesInverseCausal_G529 result: 4 17 16 2
+4_17_directSometimesCausal/directAlwaysInverseCausal_G529 result: 17
+33_17_directSometimesCausal/directSometimesInverseCausal_G529 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_G529 result: 33
+33_40_directAlwaysCausal/directSometimesInverseCausal_G529 result: 40
+42_46_directSometimesCausal/directAlwaysInverseCausal_G529 result: 46
+51_46_directSometimesCausal/directAlwaysInverseCausal_G529 result: 46
+40_51_directAlwaysCausal/directSometimesInverseCausal_G529 result: 51
+4_3_directSometimesCausal/directSometimesInverseCausal_G524 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G524 result: 3
+3_4_directSometimesCausal/directSometimesInverseCausal_G524 result: 4
+27_4_directSometimesCausal/directSometimesInverseCausal_G524 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G524 result: 2
+4_27_directSometimesCausal/directSometimesInverseCausal_G524 result: 3 17 8 25 27
+25_27_directSometimesCausal/directSometimesInverseCausal_G524 result: 3 17 4 8 27
+4_18_directSometimesCausal/directSometimesInverseCausal_G524 result: 3 17 8 25 27 18
+27_18_directSometimesCausal/directSometimesInverseCausal_G524 result: 3 17 8 18
+25_26_directAlwaysCausal/directSometimesInverseCausal_G524 result: 26
+20_45_directAlwaysCausal/directSometimesInverseCausal_G524 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G524 result: 46
+26_20_directAlwaysCausal/directAlwaysInverseCausal_G524 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G524 result: 25
+18_25_directSometimesCausal/directAlwaysInverseCausal_G524 result: 25
+4_3_directSometimesCausal/directSometimesInverseCausal_G519 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G519 result: 3
+3_4_directSometimesCausal/directSometimesInverseCausal_G519 result: 4
+25_4_directSometimesCausal/directSometimesInverseCausal_G519 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G519 result: 2
+20_27_directAlwaysCausal/directSometimesInverseCausal_G519 result: 45 27
+4_18_directAlwaysCausal/directSometimesInverseCausal_G519 result: 18
+25_26_directAlwaysCausal/directSometimesInverseCausal_G519 result: 26
+20_45_directAlwaysCausal/directSometimesInverseCausal_G519 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G519 result: 46
+26_20_directAlwaysCausal/directAlwaysInverseCausal_G519 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G519 result: 25
+18_25_directSometimesCausal/directAlwaysInverseCausal_G519 result: 25
+4_3_directSometimesCausal/directSometimesInverseCausal_G514 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G514 result: 3
+3_4_directSometimesCausal/directSometimesInverseCausal_G514 result: 4
+25_4_directSometimesCausal/directSometimesInverseCausal_G514 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G514 result: 2
+20_27_directAlwaysCausal/directSometimesInverseCausal_G514 result: 45 27
+4_18_directAlwaysCausal/directSometimesInverseCausal_G514 result: 18
+25_26_directAlwaysCausal/directSometimesInverseCausal_G514 result: 26
+20_45_directAlwaysCausal/directSometimesInverseCausal_G514 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G514 result: 46
+26_20_directAlwaysCausal/directAlwaysInverseCausal_G514 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G514 result: 25
+18_25_directSometimesCausal/directAlwaysInverseCausal_G514 result: 25
+4_3_directSometimesCausal/directSometimesInverseCausal_G509 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G509 result: 3
+3_4_directSometimesCausal/directSometimesInverseCausal_G509 result: 4
+25_4_directSometimesCausal/directSometimesInverseCausal_G509 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G509 result: 2
+20_27_directAlwaysCausal/directSometimesInverseCausal_G509 result: 45 27
+4_18_directAlwaysCausal/directSometimesInverseCausal_G509 result: 18
+25_26_directAlwaysCausal/directSometimesInverseCausal_G509 result: 26
+20_45_directAlwaysCausal/directSometimesInverseCausal_G509 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_G509 result: 46
+26_20_directAlwaysCausal/directAlwaysInverseCausal_G509 result: 20
+20_25_directSometimesCausal/directSometimesInverseCausal_G509 result: 25
+18_25_directSometimesCausal/directAlwaysInverseCausal_G509 result: 25
+4_3_directSometimesCausal/directSometimesInverseCausal_G504 result: 3
+2_3_directSometimesCausal/directAlwaysInverseCausal_G504 result: 3
+3_4_directSometimesCausal/directSometimesInverseCausal_G504 result: 4
+17_4_directSometimesCausal/directSometimesInverseCausal_G504 result: 4
+3_2_directAlwaysCausal/directSometimesInverseCausal_G504 result: 2
+4_17_directAlwaysCausal/directSometimesInverseCausal_G504 result: 8 10 18 17
+25_40_directSometimesCausal/directSometimesInverseCausal_G504 result: 4 17 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_G504 result: 43 45
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_g44 result: 8
+3_10_directAlwaysCausal/directSometimesInverseCausal_g44 result: 8 2 4 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_g44 result: 8 2 4
+4_17_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 17
+25_40_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 46
+17_25_directAlwaysCausal/directAlwaysInverseCausal_g44 result: 25
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 3
+3_8_directAlwaysCausal/directSometimesInverseCausal_g3 result: 8
+3_10_directAlwaysCausal/directSometimesInverseCausal_g3 result: 8 2 4 10
+3_4_directAlwaysCausal/directSometimesInverseCausal_g3 result: 8 2 4
+4_2_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 17 7 2
+2_17_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 17
+17_33_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 33
+33_40_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 45 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g3 result: 46
+16_3_directSometimesCausal/directAlwaysInverseCausal_g35 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_g35 result: 8
+3_4_directAlwaysCausal/directAlwaysInverseCausal_g35 result: 4
+38_51_directAlwaysCausal/directAlwaysInverseCausal_g35 result: 51
+4_38_directAlwaysCausal/directSometimesInverseCausal_g35 result: 8 17 10 18 38
+8_16_directAlwaysCausal/directAlwaysInverseCausal_g35 result: 3 16
+4_8_directAlwaysCausal/directSometimesInverseCausal_g30 result: 8
+4_10_directAlwaysCausal/directSometimesInverseCausal_g30 result: 8 10
+1_4_directAlwaysCausal/directAlwaysInverseCausal_g30 result: 4
+8_1_directSometimesCausal/directAlwaysInverseCausal_g30 result: 1
+10_1_directSometimesCausal/directAlwaysInverseCausal_g30 result: 1
+4_28_directAlwaysCausal/directSometimesInverseCausal_g30 result: 8 10 35 28
+28_11_directAlwaysCausal/directAlwaysInverseCausal_g30 result: 11
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 3
+7_8_directAlwaysCausal/directSometimesInverseCausal_g26 result: 8
+3_4_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 4
+7_2_directAlwaysCausal/directSometimesInverseCausal_g26 result: 8 17 2
+2_17_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 17
+35_40_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 46
+17_35_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 35
+4_7_directAlwaysCausal/directAlwaysInverseCausal_g26 result: 17 7
+4_8_directAlwaysCausal/directSometimesInverseCausal_g21 result: 8
+4_10_directAlwaysCausal/directSometimesInverseCausal_g21 result: 8 10
+1_4_directAlwaysCausal/directAlwaysInverseCausal_g21 result: 4
+28_43_directAlwaysCausal/directAlwaysInverseCausal_g21 result: 43
+4_35_directAlwaysCausal/directSometimesInverseCausal_g21 result: 8 10 35
+8_1_directSometimesCausal/directAlwaysInverseCausal_g21 result: 1
+10_1_directSometimesCausal/directAlwaysInverseCausal_g21 result: 1
+35_28_directAlwaysCausal/directAlwaysInverseCausal_g21 result: 28
+43_11_directAlwaysCausal/directAlwaysInverseCausal_g21 result: 11
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_g17 result: 8
+3_4_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 4
+4_17_directAlwaysCausal/directSometimesInverseCausal_g17 result: 8 10 17
+25_40_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 40
+40_43_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 43
+43_45_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 46
+17_25_directAlwaysCausal/directAlwaysInverseCausal_g17 result: 25
+8_3_directAlwaysCausal/directAlwaysInverseCausal_g12 result: 3
+4_8_directAlwaysCausal/directSometimesInverseCausal_g12 result: 8
+14_10_directAlwaysCausal/directSometimesInverseCausal_g12 result: 10
+4_17_directAlwaysCausal/directSometimesInverseCausal_g12 result: 8 17
+20_40_directAlwaysCausal/directAlwaysInverseCausal_g12 result: 40
+40_45_directAlwaysCausal/directAlwaysInverseCausal_g12 result: 45
+45_46_directAlwaysCausal/directAlwaysInverseCausal_g12 result: 46
+3_12_directAlwaysCausal/directAlwaysInverseCausal_g12 result: 4 12
+12_13_directAlwaysCausal/directSometimesInverseCausal_g12 result: 13
+12_14_directAlwaysCausal/directSometimesInverseCausal_g12 result: 13 14
+==========result==========
+2 g12 1: 0.5294117647058824
+7 g17 1: 0.8888888888888888
+17 g26 1: 0.8181818181818182
+22 g30 1: 0.8571428571428571
+27 g35 1: 0.5714285714285714
+32 g3 1: 0.6363636363636364
+37 g44 1: 0.8
+42 G504 1: 0.3125
+62 G524 1: 0.7333333333333333
+67 G529 1: 0.5714285714285714
+77 G539 1: 0.875
+87 G549 1: 0.75
+92 G554 1: 0.7857142857142857
+97 G559 1: 0.6923076923076923
+117 G578 1: 0.8333333333333334
+122 G582 1: 0.9
+127 G587 1: 0.6666666666666666
+132 G591 1: 0.6666666666666666
+142 g5 1: 0.6
+152 G609 1: 0.9
+157 G613 1: 0.9
+162 G618 1: 0.9
+167 G622 1: 0.8333333333333334
+172 G627 1: 0.6842105263157895
+177 G631 1: 0.9
+182 G636 1: 0.625
+187 G640 1: 0.9
+192 G645 1: 0.9
+197 g64 1: 0.5
+202 G654 1: 0.8571428571428571
+207 g69 1: 0.9
+212 g73 1: 0.6666666666666666
+217 g7 1: 0.5555555555555556
+2 g12 2: 0.5882352941176471
+27 g35 2: 0.7142857142857143
+32 g3 2: 0.9090909090909091
+42 G504 2: 0.375
+62 G524 2: 0.7333333333333333
+67 G529 2: 0.7857142857142857
+77 G539 2: 0.875
+87 G549 2: 0.9166666666666666
+92 G554 2: 0.9285714285714286
+97 G559 2: 0.7692307692307693
+117 G578 2: 0.9166666666666666
+122 G582 2: 0.9
+142 g5 2: 0.8
+152 G609 2: 0.9
+157 G613 2: 0.9
+162 G618 2: 0.9
+167 G622 2: 0.8333333333333334
+177 G631 2: 0.9
+187 G640 2: 0.9
+192 G645 2: 0.9
+197 g64 2: 0.75
+202 G654 2: 0.9285714285714286
+212 g73 2: 0.9333333333333333
+2 g12 3: 0.5882352941176471
+27 g35 3: 0.7142857142857143
+42 G504 3: 0.4375
+62 G524 3: 0.7333333333333333
+67 G529 3: 0.7857142857142857
+77 G539 3: 0.875
+97 G559 3: 0.7692307692307693
+152 G609 3: 0.9
+157 G613 3: 0.9
+162 G618 3: 0.9
+167 G622 3: 0.9166666666666666
+212 g73 3: 0.9333333333333333
+2 g12 4: 0.5882352941176471
+27 g35 4: 0.8571428571428571
+42 G504 4: 0.5
+62 G524 4: 0.9333333333333333
+67 G529 4: 0.8571428571428571
+77 G539 4: 0.875
+97 G559 4: 0.8461538461538461
+167 G622 4: 0.9166666666666666
+2 g12 5: 0.5882352941176471
+27 g35 5: 0.8571428571428571
+42 G504 5: 0.5
+67 G529 5: 0.8571428571428571
+97 G559 5: 0.8461538461538461
+167 G622 5: 0.9166666666666666
+2 g12 6: 0.5882352941176471
+27 g35 6: 0.8571428571428571
+42 G504 6: 0.5
+67 G529 6: 0.8571428571428571
+97 G559 6: 0.8461538461538461
+167 G622 6: 0.9166666666666666
+2 g12 7: 0.5882352941176471
+27 g35 7: 0.8571428571428571
+42 G504 7: 0.5
+67 G529 7: 0.8571428571428571
+97 G559 7: 0.8461538461538461
+167 G622 7: 0.9166666666666666
+2 g12 8: 0.5882352941176471
+27 g35 8: 0.8571428571428571
+42 G504 8: 0.5
+67 G529 8: 0.8571428571428571
+97 G559 8: 0.8461538461538461
+167 G622 8: 0.9166666666666666
+2 g12 9: 0.5882352941176471
+27 g35 9: 0.8571428571428571
+42 G504 9: 0.5
+67 G529 9: 0.8571428571428571
+97 G559 9: 0.8461538461538461
+167 G622 9: 0.9166666666666666
+2 g12 10: 0.5882352941176471
+27 g35 10: 0.8571428571428571
+42 G504 10: 0.5
+67 G529 10: 0.8571428571428571
+97 G559 10: 0.8461538461538461
+167 G622 10: 0.9166666666666666
+
+hitRate 1: 0.8015267175572519
+hitRate 2: 0.9083969465648855
+hitRate 3: 0.9351145038167938
+hitRate 4: 0.9561068702290076
+hitRate 5: 0.9599236641221374
+hitRate 6: 0.9599236641221374
+hitRate 7: 0.9599236641221374
+hitRate 8: 0.9599236641221374
+hitRate 9: 0.9599236641221374
+hitRate 10: 0.9599236641221374
+precision 1: 0.8549618320610687
+precision 2: 0.5534351145038168
+precision 3: 0.4077608142493639
+precision 4: 0.31679389312977096
+precision 5: 0.26106870229007634
+precision 6: 0.22105597964376592
+precision 7: 0.18974918211559433
+precision 8: 0.16603053435114504
+precision 9: 0.1475826972010178
+precision 10: 0.13282442748091602
+recall 1: 0.6187845303867403
+recall 2: 0.8011049723756906
+recall 3: 0.8853591160220995
+recall 4: 0.9171270718232044
+recall 5: 0.9447513812154696
+recall 6: 0.9599447513812155
+recall 7: 0.9613259668508287
+recall 8: 0.9613259668508287
+recall 9: 0.9613259668508287
+recall 10: 0.9613259668508287
+f1 1: 0.717948717948718
+f1 2: 0.654627539503386
+f1 3: 0.5583623693379792
+f1 4: 0.4709219858156028
+f1 5: 0.4090909090909091
+f1 6: 0.35935884177869704
+f1 7: 0.31693989071038253
+f1 8: 0.28315703824247357
+f1 9: 0.25588235294117645
+f1 10: 0.23340040241448692

@@ -1,0 +1,793 @@
+==========file: .\smallSynAfter400\entity2id.txt==========
+==========file: .\smallSynAfter400\relation2id.txt==========
+==========file: .\smallSynAfter400\graph2id.txt==========
+==========file: .\smallSynAfter400\S0.txt==========
+==========file: .\smallSynAfter400\S1.txt==========
+==========file: .\smallSynAfter400\S2.txt==========
+==========file: .\smallSynAfter400\S3.txt==========
+==========file: .\smallSynAfter400\S4.txt==========
+==========evaluate==========
+5_25_after_G98 result: 23 25
+48_36_after_G98 result: 16 40 29 36
+51_30_after_G98 result: 30
+36_51_after_G98 result: 51
+30_5_after_G98 result: 52 47 5
+25_43_after_G98 result: 12 43
+43_19_after_G98 result: 51 19
+38_34_after_G93 result: 7 34
+47_38_after_G93 result: 15 38
+26_12_after_G93 result: 18 35 12
+34_26_after_G93 result: 25 48 31 26
+12_14_after_G93 result: 9 18 14
+28_43_after_G89 result: 47 44 43
+49_3_after_G89 result: 3
+13_28_after_G89 result: 7 28
+3_31_after_G89 result: 31
+31_13_after_G89 result: 13
+47_22_after_G84 result: 15 22
+22_38_after_G84 result: 38
+47_38_after_G84 result: 38
+32_5_after_G84 result: 7 5
+45_32_after_G84 result: 35 32
+31_45_after_G84 result: 13 50 45
+5_47_after_G84 result: 47
+13_7_after_G7 result: 38 28 7
+38_34_after_G7 result: 7 34
+7_45_after_G7 result: 37 45
+31_45_after_G7 result: 37 30 45
+34_31_after_G7 result: 25 48 31
+31_13_after_G7 result: 30 13
+36_33_after_G75 result: 33
+47_17_after_G75 result: 17
+23_36_after_G75 result: 36
+31_30_after_G75 result: 50 13 45 30
+1_41_after_G75 result: 41
+33_31_after_G75 result: 51 31
+41_31_after_G75 result: 35 40 31
+30_47_after_G75 result: 5 47
+33_1_after_G75 result: 51 31 1
+45_16_after_G70 result: 32 16
+17_45_after_G70 result: 41 45
+52_19_after_G70 result: 27 19
+16_29_after_G70 result: 22 11 20 29
+50_52_after_G70 result: 52
+29_50_after_G70 result: 1 5 50
+19_30_after_G66 result: 30
+40_8_after_G66 result: 7 39 13 8
+48_40_after_G66 result: 16 40
+52_19_after_G66 result: 34 19
+8_47_after_G66 result: 21 47
+47_15_after_G66 result: 38 15
+15_52_after_G66 result: 23 48 52
+39_27_after_G61 result: 18 27
+48_36_after_G61 result: 40 29 16 36
+15_48_after_G61 result: 46 52 23 48
+40_39_after_G61 result: 8 7 39
+11_51_after_G61 result: 13 51
+51_40_after_G61 result: 40
+27_15_after_G61 result: 15
+52_34_after_G57 result: 27 19 34
+47_22_after_G57 result: 15 17 22
+51_30_after_G57 result: 15 49 40 30
+20_9_after_G57 result: 44 37 19 9
+8_21_after_G57 result: 24 21
+9_51_after_G57 result: 52 32 51
+21_20_after_G57 result: 24 20
+30_47_after_G57 result: 52 47
+8_47_after_G57 result: 52 47
+22_52_after_G57 result: 38 52
+9_52_after_G57 result: 38 52
+17_4_after_G52 result: 41 45 4
+36_48_after_G52 result: 48
+4_36_after_G52 result: 23 30 36
+29_5_after_G52 result: 1 50 5
+5_47_after_G52 result: 47
+48_29_after_G52 result: 16 29
+52_34_after_G48 result: 27 34
+47_22_after_G48 result: 15 17 38 22
+30_5_after_G48 result: 5
+32_5_after_G48 result: 7 5
+45_32_after_G48 result: 35 32
+31_45_after_G48 result: 13 30 45
+34_31_after_G48 result: 31
+30_47_after_G48 result: 5 47
+22_52_after_G48 result: 38 52
+30_52_after_G48 result: 38 52
+38_7_after_G43 result: 7
+10_38_after_G43 result: 1 47 38
+45_16_after_G43 result: 37 35 32 16
+16_20_after_G43 result: 11 20
+7_45_after_G43 result: 45
+1_4_after_G39 result: 41 33 4
+15_48_after_G39 result: 23 46 48
+43_51_after_G39 result: 51
+48_29_after_G39 result: 40 16 29
+29_1_after_G39 result: 5 1
+51_15_after_G39 result: 49 15
+52_27_after_G387 result: 27
+31_30_after_G387 result: 13 50 45 30
+13_30_after_G387 result: 7 28 38 13 50 45 30
+39_49_after_G387 result: 49
+49_3_after_G387 result: 46 3
+3_31_after_G387 result: 43 31
+27_15_after_G387 result: 15
+30_52_after_G387 result: 5 47 52
+31_13_after_G387 result: 13
+27_33_after_G382 result: 15 48 33
+52_27_after_G382 result: 34 19 27
+33_51_after_G382 result: 1 31 51
+51_40_after_G382 result: 49 15 30 40
+9_52_after_G382 result: 32 51 52
+18_37_after_G378 result: 50 38 37
+37_49_after_G378 result: 49
+49_3_after_G378 result: 3
+26_12_after_G378 result: 35 18 12
+12_18_after_G378 result: 9 18
+26_18_after_G378 result: 9 18
+23_42_after_G373 result: 36 39 42
+16_22_after_G373 result: 22
+22_38_after_G373 result: 52 38
+38_37_after_G373 result: 34 37
+42_16_after_G373 result: 46 52 16
+42_46_after_G373 result: 46
+49_46_after_G373 result: 46
+37_49_after_G373 result: 6 26 49
+25_33_after_G369 result: 33
+44_25_after_G369 result: 19 9 25
+9_25_after_G369 result: 25
+28_44_after_G369 result: 44
+44_9_after_G369 result: 19 9
+33_51_after_G369 result: 1 51
+7_51_after_G369 result: 1 51
+51_40_after_G369 result: 30 15 40
+7_28_after_G369 result: 45 28
+40_13_after_G369 result: 39 7 13
+40_7_after_G364 result: 7
+47_38_after_G364 result: 15 38
+51_30_after_G364 result: 30
+7_51_after_G364 result: 37 45 28 51
+30_5_after_G364 result: 47 52 5
+5_47_after_G364 result: 23 25 10 47
+1_4_after_G35 result: 4
+4_23_after_G35 result: 23
+4_30_after_G35 result: 23 30
+13_30_after_G35 result: 30
+23_39_after_G35 result: 39
+49_46_after_G35 result: 3 16 46
+39_49_after_G35 result: 18 49
+29_1_after_G35 result: 50 1
+46_13_after_G35 result: 32 13
+22_38_after_G355 result: 38
+31_30_after_G355 result: 13 50 30
+1_41_after_G355 result: 4 33 41
+30_5_after_G355 result: 5
+38_10_after_G355 result: 7 34 37 10
+41_31_after_G355 result: 31
+10_1_after_G355 result: 1
+15_23_after_G350 result: 23
+23_36_after_G350 result: 42 39 36
+42_16_after_G350 result: 46 52 16
+16_11_after_G350 result: 22 20 29 11
+11_15_after_G350 result: 13 51 48 15
+2_7_after_G346 result: 7
+45_16_after_G346 result: 35 37 16
+19_16_after_G346 result: 35 8 16
+7_45_after_G346 result: 45
+45_35_after_G346 result: 35
+16_29_after_G346 result: 20 29
+52_19_after_G346 result: 27 34 19
+35_52_after_G346 result: 43 52
+33_51_after_G341 result: 51
+51_49_after_G341 result: 15 30 49
+49_3_after_G341 result: 16 20 3
+33_31_after_G341 result: 51 31
+3_31_after_G341 result: 31
+31_13_after_G341 result: 13
+8_21_after_G337 result: 24 47 21
+35_9_after_G337 result: 9
+19_8_after_G337 result: 8
+52_19_after_G337 result: 34 27 19
+9_52_after_G337 result: 32 51 52
+35_52_after_G337 result: 32 51 52
+23_42_after_G332 result: 39 36 42
+15_23_after_G332 result: 23
+45_37_after_G332 result: 35 37
+19_16_after_G332 result: 30 16
+50_45_after_G332 result: 52 45
+16_29_after_G332 result: 20 29
+52_19_after_G332 result: 27 34 19
+29_50_after_G332 result: 1 5 50
+42_52_after_G332 result: 46 52
+15_52_after_G332 result: 46 52
+13_7_after_G328 result: 30 38 7
+25_33_after_G328 result: 33
+44_25_after_G328 result: 19 9 25
+7_37_after_G328 result: 45 37
+49_46_after_G328 result: 16 20 3 46
+33_51_after_G328 result: 1 51
+51_49_after_G328 result: 30 15 40 49
+46_13_after_G328 result: 13
+52_34_after_G323 result: 27 34
+34_25_after_G323 result: 26 25
+18_38_after_G323 result: 38
+25_12_after_G323 result: 12
+12_18_after_G323 result: 9 14 35 18
+30_52_after_G323 result: 5 47 52
+47_17_after_G319 result: 38 15 22 17
+19_8_after_G319 result: 30 8
+8_47_after_G319 result: 24 21 47
+52_19_after_G319 result: 27 19
+50_52_after_G319 result: 36 52
+18_50_after_G319 result: 50
+39_27_after_G314 result: 49 29 18 27
+5_23_after_G314 result: 25 10 47 23
+36_48_after_G314 result: 33 48
+23_36_after_G314 result: 42 36
+23_39_after_G314 result: 42 36 39
+40_39_after_G314 result: 7 39
+48_40_after_G314 result: 40
+27_15_after_G314 result: 33 15
+13_7_after_G30 result: 38 7
+40_39_after_G30 result: 7 39
+49_46_after_G30 result: 46
+39_49_after_G30 result: 18 49
+46_13_after_G30 result: 32 13
+19_30_after_G305 result: 35 8 30
+32_6_after_G305 result: 5 7 6
+49_20_after_G305 result: 3 46 16 20
+30_5_after_G305 result: 5
+32_5_after_G305 result: 5
+6_49_after_G305 result: 31 49
+5_10_after_G305 result: 25 47 23 10
+20_19_after_G305 result: 37 19
+24_7_after_G300 result: 51 7
+21_24_after_G300 result: 20 38 24
+8_24_after_G300 result: 20 38 24
+7_37_after_G300 result: 28 45 51 37
+8_21_after_G300 result: 21
+40_8_after_G300 result: 39 7 13 8
+41_40_after_G300 result: 39 35 40
+14_44_after_G297 result: 32 44
+47_17_after_G297 result: 38 15 22 17
+44_20_after_G297 result: 9 19 25 20
+19_8_after_G297 result: 35 30 8
+8_47_after_G297 result: 47
+44_19_after_G297 result: 9 19
+20_19_after_G297 result: 19
+38_7_after_G292 result: 34 37 7
+10_38_after_G292 result: 1 38
+32_6_after_G292 result: 5 7 6
+42_46_after_G292 result: 46
+46_32_after_G292 result: 13 28 32
+45_32_after_G292 result: 37 35 32
+7_45_after_G292 result: 45
+28_43_after_G292 result: 47 44 43
+43_10_after_G292 result: 51 19 10
+46_28_after_G292 result: 13 28
+36_48_after_G288 result: 33 48
+31_30_after_G288 result: 30
+20_37_after_G288 result: 19 37
+48_16_after_G288 result: 40 16
+37_6_after_G288 result: 22 6
+16_20_after_G288 result: 11 22 29 20
+6_31_after_G288 result: 31
+21_38_after_G283 result: 20 38
+1_41_after_G283 result: 4 41
+8_21_after_G283 result: 21
+40_8_after_G283 result: 39 7 13 8
+41_40_after_G283 result: 31 35 40
+43_10_after_G283 result: 51 10
+10_1_after_G283 result: 1
+52_34_after_G279 result: 34
+45_37_after_G279 result: 16 37
+12_9_after_G279 result: 9
+35_45_after_G279 result: 9 52 45
+26_35_after_G279 result: 35
+12_35_after_G279 result: 35
+34_26_after_G279 result: 25 31 26
+9_52_after_G279 result: 51 52
+47_38_after_G274 result: 22 15 38
+23_39_after_G274 result: 36 39
+29_5_after_G274 result: 1 50 5
+5_10_after_G274 result: 10
+5_47_after_G274 result: 10 47
+10_47_after_G274 result: 1 38 47
+39_29_after_G274 result: 49 18 29
+47_17_after_G26 result: 38 15 22 17
+45_32_after_G26 result: 32
+19_8_after_G26 result: 35 8
+17_45_after_G26 result: 45
+8_47_after_G26 result: 24 21 47
+44_19_after_G26 result: 19
+27_33_after_G265 result: 15 48 33
+52_27_after_G265 result: 19 34 27
+45_37_after_G265 result: 16 37
+20_9_after_G265 result: 19 37 9
+35_9_after_G265 result: 19 37 9
+49_20_after_G265 result: 16 3 20
+37_49_after_G265 result: 26 49
+35_45_after_G265 result: 9 52 43 45
+9_52_after_G265 result: 52
+35_52_after_G265 result: 52
+1_33_after_G260 result: 4 41 33
+45_37_after_G260 result: 32 16 35 37
+49_20_after_G260 result: 16 3 20
+37_49_after_G260 result: 6 26 49
+31_45_after_G260 result: 45
+33_31_after_G260 result: 51 31
+27_33_after_G256 result: 15 48 33
+28_44_after_G256 result: 43 47 44
+52_27_after_G256 result: 34 19 27
+44_9_after_G256 result: 19 25 20 9
+33_31_after_G256 result: 1 31
+13_28_after_G256 result: 38 28
+9_52_after_G256 result: 25 52
+11_13_after_G256 result: 13
+8_21_after_G251 result: 24 21
+21_20_after_G251 result: 24 20
+19_8_after_G251 result: 35 30 8
+35_43_after_G251 result: 52 43
+41_35_after_G251 result: 39 35
+43_19_after_G251 result: 10 51 19
+5_23_after_G247 result: 23
+13_30_after_G247 result: 28 38 7 30
+17_41_after_G247 result: 41
+30_5_after_G247 result: 5
+41_40_after_G247 result: 39 31 40
+40_13_after_G247 result: 39 7 13
+38_7_after_G242 result: 7
+10_38_after_G242 result: 1 47 38
+47_38_after_G242 result: 15 22 1 38
+45_16_after_G242 result: 37 32 35 16
+16_11_after_G242 result: 11
+32_5_after_G242 result: 6 5
+9_32_after_G242 result: 32
+7_45_after_G242 result: 45
+5_10_after_G242 result: 25 10
+5_47_after_G242 result: 25 10 47
+10_47_after_G242 result: 1 47
+25_33_after_G238 result: 12 43 33
+5_25_after_G238 result: 25
+50_36_after_G238 result: 52 36
+33_51_after_G238 result: 31 51
+36_51_after_G238 result: 51
+33_31_after_G238 result: 31
+31_50_after_G238 result: 50
+31_30_after_G233 result: 30
+18_37_after_G233 result: 50 37
+37_6_after_G233 result: 49 6
+6_31_after_G233 result: 49 31
+39_18_after_G233 result: 49 18
+6_37_after_G229 result: 31 49 37
+35_43_after_G229 result: 52 45 9 43
+26_35_after_G229 result: 35
+43_10_after_G229 result: 10
+37_26_after_G229 result: 26
+24_7_after_G224 result: 51 22 7
+8_24_after_G224 result: 24
+47_17_after_G224 result: 22 38 15 17
+7_28_after_G224 result: 28
+8_47_after_G224 result: 24 21 47
+28_47_after_G224 result: 44 47
+39_27_after_G21 result: 49 18 27
+15_23_after_G21 result: 23
+27_48_after_G21 result: 33 15 48
+15_48_after_G21 result: 33 15 48
+48_16_after_G21 result: 16
+16_11_after_G21 result: 29 20 11
+23_39_after_G21 result: 39
+52_27_after_G215 result: 19 27
+27_48_after_G215 result: 48
+48_29_after_G215 result: 29
+29_50_after_G215 result: 50
+42_52_after_G215 result: 46 52
+49_16_after_G210 result: 3 46 16
+32_6_after_G210 result: 5 7 6
+29_5_after_G210 result: 1 5
+6_49_after_G210 result: 31 49
+16_29_after_G210 result: 22 29
+25_33_after_G206 result: 22 33
+9_25_after_G206 result: 32 51 52 25
+20_37_after_G206 result: 37
+49_20_after_G206 result: 3 16 20
+33_51_after_G206 result: 1 51
+9_51_after_G206 result: 1 51
+51_49_after_G206 result: 30 15 40 49
+36_33_after_G201 result: 33
+23_42_after_G201 result: 39 36 42
+15_23_after_G201 result: 23
+50_36_after_G201 result: 52 45 36
+42_16_after_G201 result: 46 52 16
+16_29_after_G201 result: 22 20 29
+33_1_after_G201 result: 51 31 1
+29_1_after_G201 result: 1
+29_50_after_G201 result: 1 5 50
+49_16_after_G198 result: 46 3 16
+1_41_after_G198 result: 4 33 41
+41_39_after_G198 result: 31 35 40 39
+39_49_after_G198 result: 27 49
+16_29_after_G198 result: 22 11 29
+39_29_after_G198 result: 22 11 29
+10_1_after_G198 result: 1
+15_48_after_G193 result: 46 48
+44_9_after_G193 result: 19 9
+35_9_after_G193 result: 9
+9_51_after_G193 result: 32 51
+19_35_after_G193 result: 35
+44_19_after_G193 result: 19
+51_15_after_G193 result: 15
+17_4_after_G189 result: 41 4
+47_17_after_G189 result: 17
+31_30_after_G189 result: 13 30
+19_30_after_G189 result: 30
+34_31_after_G189 result: 25 31
+30_47_after_G189 result: 5 47
+52_19_after_G189 result: 19
+50_52_after_G189 result: 36 52
+31_50_after_G189 result: 13 30 45 50
+38_7_after_G184 result: 10 7
+13_7_after_G184 result: 10 7
+13_38_after_G184 result: 38
+7_37_after_G184 result: 45 28 37
+42_46_after_G184 result: 46
+37_26_after_G184 result: 6 49 22 26
+46_13_after_G184 result: 13
+28_44_after_G17 result: 47 44
+5_23_after_G17 result: 23
+19_30_after_G17 result: 35 8 30
+30_5_after_G17 result: 5
+44_19_after_G17 result: 19
+52_27_after_G175 result: 27
+27_48_after_G175 result: 33 15 48
+50_36_after_G175 result: 52 45 36
+51_30_after_G175 result: 40 49 15 30
+36_51_after_G175 result: 33 48 51
+30_47_after_G175 result: 52 47
+51_15_after_G175 result: 40 49 15
+47_15_after_G175 result: 40 15
+30_52_after_G175 result: 52
+15_52_after_G175 result: 23 52
+29_50_after_G175 result: 50
+52_34_after_G170 result: 34
+34_25_after_G170 result: 25
+9_25_after_G170 result: 25
+35_9_after_G170 result: 9
+25_12_after_G170 result: 22 12
+12_14_after_G170 result: 9 14
+9_52_after_G170 result: 32 51 52
+35_52_after_G170 result: 32 51 52
+52_34_after_G166 result: 34
+36_48_after_G166 result: 48
+26_36_after_G166 result: 35 18 12 36
+29_5_after_G166 result: 50 1 5
+5_47_after_G166 result: 47
+48_29_after_G166 result: 16 40 29
+47_15_after_G166 result: 22 15
+15_52_after_G166 result: 46 48 23 52
+34_25_after_G161 result: 25
+19_16_after_G161 result: 35 30 8 16
+25_43_after_G161 result: 22 12 43
+16_29_after_G161 result: 11 29
+43_19_after_G161 result: 51 19
+29_50_after_G161 result: 1 5 50
+32_7_after_G157 result: 5 7
+7_37_after_G157 result: 37
+45_37_after_G157 result: 37
+45_32_after_G157 result: 37 32
+35_45_after_G157 result: 52 43 45
+41_35_after_G157 result: 39 35
+36_48_after_G152 result: 48
+4_36_after_G152 result: 23 30 36
+48_16_after_G152 result: 16
+16_29_after_G152 result: 22 11 29
+29_1_after_G152 result: 1
+38_7_after_G148 result: 34 7
+47_38_after_G148 result: 22 15 38
+7_37_after_G148 result: 28 45 51 37
+38_37_after_G148 result: 28 34 7 45 51 37
+49_46_after_G148 result: 16 3 46
+29_5_after_G148 result: 1 50 5
+37_49_after_G148 result: 6 49
+5_47_after_G148 result: 10 47
+39_29_after_G148 result: 49 18 29
+24_7_after_G143 result: 22 51 7
+40_7_after_G143 result: 22 51 7
+8_24_after_G143 result: 21 24
+49_46_after_G143 result: 3 16 20 46
+7_51_after_G143 result: 28 37 45 51
+24_51_after_G143 result: 28 22 51
+40_8_after_G143 result: 7 39 13 8
+51_49_after_G143 result: 30 49
+5_23_after_G139 result: 25 23
+36_48_after_G139 result: 33 48
+23_36_after_G139 result: 36
+13_30_after_G139 result: 38 28 7 30
+30_5_after_G139 result: 5
+27_48_after_G134 result: 48
+1_41_after_G134 result: 41
+41_39_after_G134 result: 40 35 39
+48_29_after_G134 result: 29
+39_18_after_G134 result: 27 49 18
+29_1_after_G134 result: 50 1
+32_7_after_G12 result: 5 7
+45_32_after_G12 result: 16 37 32
+35_45_after_G12 result: 9 52 43 45
+7_28_after_G12 result: 37 45 28
+28_47_after_G12 result: 44 47
+13_7_after_G125 result: 28 38 7
+7_51_after_G125 result: 37 45 51
+6_49_after_G125 result: 31 49
+51_49_after_G125 result: 49
+49_3_after_G125 result: 3
+6_31_after_G125 result: 31
+31_13_after_G125 result: 30 13
+14_44_after_G120 result: 32 44
+19_30_after_G120 result: 35 30
+44_20_after_G120 result: 9 19 25 20
+30_5_after_G120 result: 5
+30_47_after_G120 result: 5 47
+5_47_after_G120 result: 47
+44_19_after_G120 result: 9 19
+20_19_after_G120 result: 19
+47_15_after_G120 result: 15
+5_25_after_G116 result: 25
+13_30_after_G116 result: 38 28 7 30
+30_5_after_G116 result: 5
+25_43_after_G116 result: 12 43
+43_19_after_G116 result: 51 19
+29_5_after_G111 result: 1 5
+5_47_after_G111 result: 10 47
+16_29_after_G111 result: 29
+47_15_after_G111 result: 15
+15_52_after_G111 result: 46 48 23 52
+38_7_after_G107 result: 7
+13_7_after_G107 result: 7
+28_44_after_G107 result: 43 44
+13_38_after_G107 result: 38
+44_9_after_G107 result: 19 9
+7_28_after_G107 result: 45 28
+13_28_after_G107 result: 45 28
+25_33_after_G102 result: 43 22 12 33
+52_34_after_G102 result: 34
+34_25_after_G102 result: 26 25
+47_15_after_G102 result: 15
+15_52_after_G102 result: 23 48 52
+==========result==========
+2 G102 1: 0.4
+7 G107 1: 0.42857142857142855
+12 G111 1: 0.4
+17 G116 1: 0.4
+22 G120 1: 0.5555555555555556
+27 G125 1: 0.5714285714285714
+32 G12 1: 0.0
+37 G134 1: 0.5
+42 G139 1: 0.4
+47 G143 1: 0.0
+52 G148 1: 0.0
+57 G152 1: 0.6
+62 G157 1: 0.5
+67 G161 1: 0.16666666666666666
+72 G166 1: 0.375
+77 G170 1: 0.5
+82 G175 1: 0.36363636363636365
+87 G17 1: 0.6
+92 G184 1: 0.42857142857142855
+97 G189 1: 0.3333333333333333
+102 G193 1: 0.7142857142857143
+107 G198 1: 0.14285714285714285
+112 G201 1: 0.3333333333333333
+117 G206 1: 0.14285714285714285
+122 G210 1: 0.0
+127 G215 1: 0.6
+132 G21 1: 0.42857142857142855
+137 G224 1: 0.3333333333333333
+142 G229 1: 0.6
+147 G233 1: 0.2
+152 G238 1: 0.7142857142857143
+157 G242 1: 0.36363636363636365
+162 G247 1: 0.5
+167 G251 1: 0.0
+172 G256 1: 0.125
+177 G260 1: 0.16666666666666666
+182 G265 1: 0.2
+187 G26 1: 0.5
+192 G274 1: 0.2857142857142857
+197 G279 1: 0.5
+202 G283 1: 0.2857142857142857
+207 G288 1: 0.2857142857142857
+212 G292 1: 0.2
+217 G297 1: 0.2857142857142857
+222 G300 1: 0.14285714285714285
+227 G305 1: 0.25
+232 G30 1: 0.2
+237 G314 1: 0.125
+242 G319 1: 0.16666666666666666
+247 G323 1: 0.3333333333333333
+252 G328 1: 0.25
+257 G332 1: 0.1
+262 G337 1: 0.3333333333333333
+267 G341 1: 0.6666666666666666
+272 G346 1: 0.375
+277 G350 1: 0.2
+282 G355 1: 0.5714285714285714
+287 G35 1: 0.5555555555555556
+292 G364 1: 0.3333333333333333
+297 G369 1: 0.3
+302 G373 1: 0.375
+307 G378 1: 0.3333333333333333
+312 G382 1: 0.0
+317 G387 1: 0.4444444444444444
+322 G39 1: 0.16666666666666666
+327 G43 1: 0.4
+332 G48 1: 0.3
+337 G52 1: 0.3333333333333333
+342 G57 1: 0.0
+347 G61 1: 0.2857142857142857
+352 G66 1: 0.14285714285714285
+357 G70 1: 0.16666666666666666
+362 G75 1: 0.4444444444444444
+367 G7 1: 0.0
+372 G84 1: 0.42857142857142855
+377 G89 1: 0.6
+382 G93 1: 0.0
+387 G98 1: 0.2857142857142857
+2 G102 2: 0.6
+12 G111 2: 0.8
+17 G116 2: 0.8
+22 G120 2: 0.8888888888888888
+27 G125 2: 0.7142857142857143
+32 G12 2: 0.4
+37 G134 2: 0.6666666666666666
+42 G139 2: 0.8
+47 G143 2: 0.375
+52 G148 2: 0.3333333333333333
+57 G152 2: 0.6
+62 G157 2: 0.8333333333333334
+67 G161 2: 0.5
+72 G166 2: 0.5
+77 G170 2: 0.75
+82 G175 2: 0.5454545454545454
+87 G17 2: 0.8
+92 G184 2: 0.7142857142857143
+97 G189 2: 0.8888888888888888
+107 G198 2: 0.2857142857142857
+112 G201 2: 0.4444444444444444
+117 G206 2: 0.5714285714285714
+122 G210 2: 0.6
+132 G21 2: 0.42857142857142855
+137 G224 2: 0.6666666666666666
+142 G229 2: 0.6
+152 G238 2: 0.8571428571428571
+157 G242 2: 0.8181818181818182
+162 G247 2: 0.5
+167 G251 2: 0.6666666666666666
+172 G256 2: 0.5
+177 G260 2: 0.3333333333333333
+182 G265 2: 0.5
+187 G26 2: 0.6666666666666666
+192 G274 2: 0.42857142857142855
+197 G279 2: 0.75
+202 G283 2: 0.7142857142857143
+207 G288 2: 0.8571428571428571
+212 G292 2: 0.5
+217 G297 2: 0.5714285714285714
+222 G300 2: 0.2857142857142857
+227 G305 2: 0.625
+237 G314 2: 0.75
+242 G319 2: 0.6666666666666666
+247 G323 2: 0.6666666666666666
+252 G328 2: 0.5
+257 G332 2: 0.7
+262 G337 2: 0.3333333333333333
+267 G341 2: 0.6666666666666666
+272 G346 2: 0.75
+277 G350 2: 0.2
+282 G355 2: 0.5714285714285714
+287 G35 2: 0.8888888888888888
+292 G364 2: 0.5
+297 G369 2: 0.8
+302 G373 2: 0.75
+307 G378 2: 0.8333333333333334
+312 G382 2: 0.0
+317 G387 2: 0.6666666666666666
+322 G39 2: 0.5
+327 G43 2: 0.6
+332 G48 2: 0.8
+337 G52 2: 0.5
+342 G57 2: 0.6363636363636364
+347 G61 2: 0.5714285714285714
+352 G66 2: 0.7142857142857143
+357 G70 2: 0.6666666666666666
+362 G75 2: 0.7777777777777778
+367 G7 2: 0.5
+372 G84 2: 0.8571428571428571
+377 G89 2: 0.8
+382 G93 2: 0.4
+387 G98 2: 0.7142857142857143
+2 G102 3: 0.8
+12 G111 3: 0.8
+17 G116 3: 0.8
+32 G12 3: 0.8
+42 G139 3: 0.8
+47 G143 3: 0.75
+52 G148 3: 0.7777777777777778
+67 G161 3: 0.8333333333333334
+72 G166 3: 0.75
+92 G184 3: 0.8571428571428571
+107 G198 3: 0.8571428571428571
+117 G206 3: 0.8571428571428571
+137 G224 3: 0.8333333333333334
+142 G229 3: 0.8
+157 G242 3: 0.8181818181818182
+162 G247 3: 0.8333333333333334
+172 G256 3: 0.875
+177 G260 3: 0.8333333333333334
+187 G26 3: 0.8333333333333334
+202 G283 3: 0.8571428571428571
+207 G288 3: 0.8571428571428571
+217 G297 3: 0.8571428571428571
+222 G300 3: 0.7142857142857143
+227 G305 3: 0.75
+237 G314 3: 0.75
+242 G319 3: 0.8333333333333334
+247 G323 3: 0.8333333333333334
+252 G328 3: 0.75
+277 G350 3: 0.6
+282 G355 3: 0.8571428571428571
+292 G364 3: 0.6666666666666666
+312 G382 3: 0.8
+317 G387 3: 0.8888888888888888
+327 G43 3: 0.8
+332 G48 3: 0.9
+342 G57 3: 0.8181818181818182
+347 G61 3: 0.7142857142857143
+352 G66 3: 0.8571428571428571
+357 G70 3: 0.8333333333333334
+362 G75 3: 0.8888888888888888
+382 G93 3: 0.8
+387 G98 3: 0.8571428571428571
+52 G148 4: 0.8888888888888888
+317 G387 4: 0.8888888888888888
+317 G387 5: 0.8888888888888888
+317 G387 6: 0.8888888888888888
+
+hitRate 1: 0.3174311926605505
+hitRate 2: 0.6440366972477064
+hitRate 3: 0.9009174311926605
+hitRate 4: 0.9963302752293578
+hitRate 5: 0.998165137614679
+hitRate 6: 0.998165137614679
+hitRate 7: 1.0
+hitRate 8: 1.0
+hitRate 9: 1.0
+hitRate 10: 1.0
+precision 1: 0.3339449541284404
+precision 2: 0.3522935779816514
+precision 3: 0.3370030581039755
+precision 4: 0.2889908256880734
+precision 5: 0.23486238532110093
+precision 6: 0.19785932721712537
+precision 7: 0.1706422018348624
+precision 8: 0.14931192660550457
+precision 9: 0.1327217125382263
+precision 10: 0.11944954128440367
+recall 1: 0.27956989247311825
+recall 2: 0.5898617511520737
+recall 3: 0.8463901689708141
+recall 4: 0.967741935483871
+recall 5: 0.9831029185867896
+recall 6: 0.9938556067588326
+recall 7: 1.0
+recall 8: 1.0
+recall 9: 1.0
+recall 10: 1.0
+f1 1: 0.3043478260869565
+f1 2: 0.4411257897759908
+f1 3: 0.4820647419072616
+f1 4: 0.4450724125750618
+f1 5: 0.37914691943127965
+f1 6: 0.33001785258862537
+f1 7: 0.29153605015673983
+f1 8: 0.2598283775693474
+f1 9: 0.234341252699784
+f1 10: 0.21340763809211605
